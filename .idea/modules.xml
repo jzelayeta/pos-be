@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/posbe.iml" filepath="$PROJECT_DIR$/posbe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/posbe_main.iml" filepath="$PROJECT_DIR$/.idea/modules/posbe_main.iml" group="posbe" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/posbe_test.iml" filepath="$PROJECT_DIR$/.idea/modules/posbe_test.iml" group="posbe" />
+    </modules>
+  </component>
+</project>
